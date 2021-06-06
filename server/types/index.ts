@@ -7,3 +7,7 @@ export type UserInfo = {
 export type AuthHeader = {
   authorization: string
 }
+
+export type Meijin = {
+  name: 'meijin'
+}
